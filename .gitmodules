@@ -1,3 +1,9 @@
 [submodule "tex_server_cpp/spdlog"]
 	path = tex_server_cpp/spdlog
 	url = https://github.com/gabime/spdlog.git
+[submodule "site"]
+	path = site
+	url = git@github.com:latex4ee/site.git
+[submodule "server"]
+	path = server
+	url = git@github.com:latex4ee/server.git
