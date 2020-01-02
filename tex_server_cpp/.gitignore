@@ -1,8 +1,0 @@
-*.o
-*.d
-*.log
-bin/*
-*.make
-make.*
-Makefile
-*.vim
